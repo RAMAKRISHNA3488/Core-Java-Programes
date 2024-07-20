@@ -1,0 +1,8 @@
+package com.ram;
+
+public class MalikDemo {
+	public static void main(String[] args) {
+		System.out.println("Hello Malik ");
+	}
+
+}

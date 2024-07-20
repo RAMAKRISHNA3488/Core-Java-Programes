@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.Hanoipuzzle&apos; to &apos;Ram/src/com.ram.newproject&apos;&#x0D;&#x0A;- Original project: &apos;NotInTopics&apos;&#x0D;&#x0A;- Destination element: &apos;Ram/src/com.ram.newproject&apos;&#x0D;&#x0A;- Original element: &apos;NotInTopics/src/com.Hanoipuzzle&apos;" description="Copy package" destination="=Ram/src&lt;com.ram.newproject" element1="/src&lt;com.Hanoipuzzle" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1681625787185" version="1.0"/>
+</session>

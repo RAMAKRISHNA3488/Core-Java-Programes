@@ -1,0 +1,16 @@
+package com.thread;
+
+public class SingleTheaded {
+
+	public static void main(String[] args) {
+		
+		
+	}
+     void printnumbers() {
+    	 for(int i=1;i<=200;i++) {
+    		 System.out.println("i: "+i+"/t");
+    	 }
+     
+	}
+
+}

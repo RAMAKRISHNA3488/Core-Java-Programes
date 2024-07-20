@@ -1,0 +1,16 @@
+package com.medium;
+
+public class OptionalClassTest {
+
+	public static void main(String[] args) {
+		OptionalClass oc = new OptionalClass("Ram", 21, "govrnament job");
+		String UppercaseName = "";
+		if (oc != null) {
+			String name = oc.getName();
+			if (name != null) {
+				UppercaseName = name.toUpperCase();
+			}
+		}
+		System.out.println(UppercaseName);
+	}
+}

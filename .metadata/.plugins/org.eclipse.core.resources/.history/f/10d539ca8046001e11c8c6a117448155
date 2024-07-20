@@ -1,0 +1,10 @@
+package com.medium;
+
+public class ReverseTheSentence {
+	public static void main(String[] args) {
+		String word="My name is Bob";
+		char ch;
+		String []stringArrya=word.split(" ");
+		System.out.println(stringArrya);
+	}
+}
